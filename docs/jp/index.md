@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Getting Started
-      link: /zh/getting-started
+      link: /jp/getting-started
     - theme: alt
       text: For Developers
-      link: /zh/developers
+      link: /jp/developers
 
 features:
   - title: Feature A

@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "How To Use"
-  text: "Strinova Map Assistant."
-  tagline: Strategy & Line-UP
+  name: "如何使用"
+  text: "卡拉彼丘地图助手"
+  tagline: 战术 & Line-UP点位
   actions:
     - theme: brand
-      text: Getting Started
+      text: 快速入门
       link: /zh/getting-started
     - theme: alt
-      text: For Developers
+      text: 开发者笔记
       link: /zh/developers
 
 features:
